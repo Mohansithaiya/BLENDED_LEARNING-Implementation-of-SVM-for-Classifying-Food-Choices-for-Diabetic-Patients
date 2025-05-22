@@ -48,7 +48,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Step 1: Load the dataset from the URL
-data = pd.read_csv('food_items_binary.csv')
+data = pd.read_csv('food_items_binary (1).csv')
 
 # Step 2: Data Exploration
 # Display the first few rows and column names for verification
